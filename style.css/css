@@ -1,0 +1,15 @@
+.hero {
+    background-color: #2F303A;
+}
+.h1 {
+    color: #FFFFFF;
+}
+.footer {
+    background-color: #2F303A;
+}
+.what_we_are_doing {
+    background-color: #F5F5F5;
+}
+.team {
+    background-color: #F5F4FA;
+}
