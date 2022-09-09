@@ -13,3 +13,13 @@
 .team {
     background-color: #F5F4FA;
 }
+.address {
+    color: #FFFFFF
+    ;
+}
+.tel {
+    color: #FFFFFF;
+}
+.mail {
+    color: #FFFFFF;
+}
