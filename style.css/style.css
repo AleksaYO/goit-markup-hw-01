@@ -1,7 +1,14 @@
+
+.logo_header {
+    color:#000000;
+}
+.logo {
+    color: #2196F3;
+}
 .hero {
     background-color: #2F303A;
 }
-.h1 {
+.hero_tittle_h1 {
     color: #FFFFFF;
 }
 .footer {
@@ -13,9 +20,14 @@
 .team {
     background-color: #F5F4FA;
 }
+.logo_footer {
+    color: #FFFFFF;
+}
 .address {
-    color: #FFFFFF
-    ;
+    color: #FFFFFF;
+}
+.map {
+    color: #FFFFFF;
 }
 .tel {
     color: #FFFFFF;
